@@ -75,11 +75,16 @@ Currently open to **remote and onsite internship opportunities**.
 ### 🔥 Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hassan-Adelani-Luqman&theme=github-dark&hide_border=true)
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Adelani-Luqman&show_icons=true&theme=github_dark&hide_border=true)
+## 📈 GitHub Activity
 
-### 🧠 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Adelani-Luqman&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-Adelani-Luqman&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Adelani-Luqman&layout=compact&theme=dark"/>
+</p>
+
 
 
 ## 🌱 Currently Learning  
