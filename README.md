@@ -20,7 +20,7 @@ I’m highly motivated to contribute to **AI research, startup innovation, and h
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Focus (Internship Ready)  
 
 - 🤖 AI Engineering & Machine Learning Internships  
 - 💻 Fullstack Software Engineering Roles  
@@ -68,27 +68,21 @@ Currently open to **remote and onsite internship opportunities**.
   <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 </p>
 
----
 
-## 📈 GitHub Performance
+## 📈 GitHub Performance (Dark Theme)  
 
 ### 🔥 Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hassan-Adelani-Luqman&theme=github-dark&hide_border=true)
 
-## 📈 GitHub Activity
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan-Adelani-Luqman&show_icons=true&theme=github_dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-Adelani-Luqman&show_icons=true&theme=dark"/>
-</p>
+### 🧠 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Adelani-Luqman&layout=compact&theme=github_dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Adelani-Luqman&layout=compact&theme=dark"/>
-</p>
-
-
+---
 
 ## 🌱 Currently Learning  
-
 - Software Architecture
 - ML Model Deployment  
 - MLOps Fundamentals  
